@@ -1,0 +1,18 @@
+/*we have to define selectors, selectors can be anything*/
+/*this is external css*/
+selector{ /*tag, classes, ids*/
+    color: aliceblue;/*once you define class you can set style, jo ki HTML page men us slecetors pe lag jayega*/
+}
+
+/*examples*/
+h1,h2,h3 { /*tag as selector*/
+    font-size: bold;
+}
+
+.red {    /*this is class of html as selector*/
+    color: red;
+}
+
+#soham {  /*this is id of html as selector*/
+    color: blue;
+}
